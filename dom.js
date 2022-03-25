@@ -6,4 +6,3 @@ var item = document.getElementsByClassName('title');
 console.log(item);
 var tag = document.getElementsByTagName('h2');
 console.log(tag);
-tag.style.textContent = 'yellow';
