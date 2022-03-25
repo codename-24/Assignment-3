@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\JS"
+		},
+		{
+			"name": "GitTutorial",
+			"path": "..\\GitTutorial"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "JS"
+	}
+}
